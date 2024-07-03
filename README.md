@@ -45,10 +45,6 @@ Once the application is running, you can interact with it through the Streamlit 
 
 Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
----
 
 Feel free to customize this template further based on additional features, specific AWS services used, or any other relevant information about your application.
