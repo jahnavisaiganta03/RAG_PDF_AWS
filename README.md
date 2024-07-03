@@ -1,6 +1,3 @@
-Certainly! Here's a basic README.md template for your application:
-
----
 
 # AWS-RAG Application
 
